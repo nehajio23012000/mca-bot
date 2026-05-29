@@ -12,8 +12,8 @@ from telegram.ext import (
 TOKEN = os.getenv("TOKEN")
 
 # ⚠️ APNI DETAILS YAHAN BADLEIN ⚠️
-GROUP_LINK = "YAHAN_APNA_PRIVATE_GROUP_LINK_PASTE_KAREIN"
-ADMIN_ID = 123456789  # Yahan apni real admin ID dalein
+GROUP_LINK = "https://t.me/+nFgeD6LLU9A2MmY1"
+ADMIN_ID = 8565742151  # Yahan apni real admin ID dalein
 
 # Part 1 mein banaye gaye links yahan dalein
 QR_URL = "YAHAN_APNA_QR_CODE_LINK_DALEIN"
