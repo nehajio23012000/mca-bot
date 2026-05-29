@@ -13,7 +13,7 @@ TOKEN = os.getenv("TOKEN")
 
 GROUP_LINK = "https://t.me/+nFgeD6LLU9A2MmY1"
 
-ADMIN_ID = 123456789
+ADMIN_ID = 8565742151
 
 waiting_users = {}
 
