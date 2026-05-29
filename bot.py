@@ -11,7 +11,7 @@ import os
 
 TOKEN = os.getenv("TOKEN")
 
-GROUP_LINK = "PASTE_YOUR_GROUP_LINK"
+GROUP_LINK = "https://t.me/+nFgeD6LLU9A2MmY1"
 
 ADMIN_ID = 123456789
 
